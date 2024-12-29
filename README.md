@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Vinodan</h1>
-<h3 align="center">A passionate blockchain developer and aspiring full-stack developer.</h3>
+<h3 align="center">A passionate blockchain developer and full-stack developer.</h3>
 
 - 🌱 I’m currently learning **MERN,DEVOPS,Blockchain Development.**
 
